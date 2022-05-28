@@ -1,0 +1,10 @@
+neurokit2==0.0.28
+pandas==1.0.5
+scipy==1.5.2
+ipywidgets==7.5.1
+wfdb==2.2.1
+numpy==1.19.1
+mvgavg==0.1.0
+matplotlib==3.3.0
+seaborn==0.10.1
+scikit_learn==0.24.2
