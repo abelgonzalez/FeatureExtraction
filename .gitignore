@@ -1,0 +1,2 @@
+# Add an exception so as to not ignore a folder with the specified name.
+!/doc/
